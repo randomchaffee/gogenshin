@@ -1,1 +1,21 @@
 .env
+.env.*
+!.env.example
+
+# go stuff
+/bin/
+/dist/
+*.exe
+*.exe~
+*.dll
+
+# test outputs
+*.test
+*.out
+
+# ide stuff
+.vscode/
+.idea/
+
+# OS stuff
+.DS_Store
