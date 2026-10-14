@@ -4,6 +4,10 @@
 
 A simple Discord bot written in Go.
 
+## why is it called gogenshin?
+
+I initially wanted to create a bot that fetches player data through the enka API, but for some weird reason I had the sudden idea to write it using a language I'm currently exploring (Golang).
+
 ## what it can do
 
 - responds to `!ping` with `Pong!`
